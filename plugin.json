@@ -1,7 +1,7 @@
 {
     "version"           :   "0.0.1",
     "license"           :   "AGPL-3.0",
-    "name"              :   "CeresVanilla",
+    "name"              :   "CeresVanillaMyKitchens",
     "marketplaceName"   :   {"de":"Ceres Vanilla","en":"Ceres Vanilla"},
     "pluginIcon"        :   "icon_plugin_xs.png",
     "authorIcon"        :   "icon_author_xs.png",
